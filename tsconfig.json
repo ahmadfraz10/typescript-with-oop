@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES2015",                                  
+    /* Modules */
+    "module": "commonjs",                                
+    "esModuleInterop": true,
+    // "preserveSymlinks": true,                         
+    "forceConsistentCasingInFileNames": true,            
+
+    /* Type Checking */
+    "strict": true,                                      
+    "skipLibCheck": true                                 
+  },
+  // "include": ["src/**/*"],
+  // "exclude": ["node_modules", "dist"]
+}
